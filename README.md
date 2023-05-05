@@ -44,6 +44,14 @@ Add coding to retrieve the saved events when rendering the time-block.
 
 Add validations and checkings to the program to avoid wrong user inputs and operations causing errors to the program.
 
+## Screenshots
+
+Below are the screenshots of the planner functioning:
+
+![Alt text](/assets/images/image-1.png)
+
+![Alt text](/assets/images/image-2.png)
+
 ## Installation
 
 No Installation requried.
